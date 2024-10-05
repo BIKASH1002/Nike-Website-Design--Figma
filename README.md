@@ -14,7 +14,7 @@ The design includes the following elements:
    
 **2) Product Description:** Provides an overview of the Nike Air Neon 45 shoe, highlighting its modern style, high-performance comfort, and vibrant neon accents.
    
-**3) Call to Action (CTA):** Includes an "Add to Cart" button designed for seamless user interaction.
+**3) Call to Action (CTA):** Includes an `Add to Cart` button designed for seamless user interaction.
    
 **4) Navigation Menu:** Contains links to various sections (Home, Collection, About, Contact, Log In).
    
